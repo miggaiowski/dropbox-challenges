@@ -1,0 +1,7 @@
+This code needs Gurobi Optimizer to run!
+Get it here: http://www.gurobi.com/
+
+To run the solver:
+$ python dropbox_sss.py < INSTANCE
+For example:
+$ python dropbox_sss.py < instancias/second
